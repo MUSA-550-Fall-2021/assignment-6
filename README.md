@@ -4,7 +4,7 @@
 
 You must complete one out of homeworks #4, #5, and #6.
 
-### Due Date: To be determined
+### Due Date: Wednesday 11/24 by the end of the day
 
 ### Description
 
@@ -20,4 +20,4 @@ In this section, you'll visualize a geospatial data set, queried using an API, u
 
 The notebook and your animated GIF should be submitted to your own private repository on GitHub, which can be created using the following link:
 
-_To Be Determined_
+https://classroom.github.com/a/t-6bFI1G
